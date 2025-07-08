@@ -57,5 +57,6 @@ Tools Used
 
 ⸻
 
-Check it out here:
-https://public.tableau.com/app/profile/trisha.shishodiya/viz/100DallasCafesAnalyzedHighlightsRecommendationsCustomerIssuesandmore/FinalDashboard
+Check it out here: https://public.tableau.com/app/profile/trisha.shishodiya/viz/100DallasCafesAnalyzedHighlightsRecommendationsCustomerIssuesandmore/FinalDashboard
+
+Watch a demo: https://drive.google.com/file/d/1x2GYIavbeSDy_8S7rzBzZOe_M2kJDh5Y/view?usp=sharing
